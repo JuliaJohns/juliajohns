@@ -1,0 +1,81 @@
+<body>
+<h3>Get an API subscription key</h3>
+<p style="font-family: Calibri, sans-serif; font-size: 16pt;">Before you 
+ can try the API, you need an API subscription key.</p>
+<p style="font-family: Calibri, sans-serif; font-size: 12pt;"><img src="https://apimgmtstn8cpkxcgggwypqf.blob.core.windows.net/content/MediaLibrary/General%20documentation/get-key-flow.jpg" 
+	 alt=""style="border: none; width="800" height="246" border="0"/></p>
+<p style="font-family: Calibri, sans-serif; font-size: 16pt;">To get an 
+ API subscription key:</p>
+<ol style="list-style: decimal; font-family: Calibri, sans-serif; font-size: 16pt;">
+	<li style="font-weight: normal; font-family: Calibri, sans-serif; font-size: 16pt;"><h4 
+		 style="font-weight: bold; font-family: Calibri, sans-serif; font-size: 16pt;">Sign 
+	 Up: <a title="Go to the Sign Up form." href="/signup" 
+		 target="_blank" 
+			 style="box-sizing: border-box; background-color: transparent; 
+			 color: rgb(237, 27, 46); font-family: Calibri, sans-serif; 
+			 font-size: 16pt; font-weight: normal; text-decoration: none; ">Sign 
+	 up</a><span style="font-weight: normal;"> for a developer portal account.</span></h4></li>
+	<li style="font-family: Calibri, sans-serif; font-size: 16pt;"><p><span 
+	 style="font-weight: bold;">Activate:</span> Click the link in the 
+	 verification email to activate your account.</p></li>
+	<li style="font-weight: normal; font-family: Calibri, sans-serif; font-size: 16pt;"><p 
+		 style="font-family: Calibri, sans-serif; font-size: 16pt;"><span 
+	 style="font-weight: bold;">Subscribe:</span> Subscribe to a 
+	 product and an API:</p></li>
+	<ol style="list-style: lower-alpha; font-family: Calibri, sans-serif; 
+			 font-size: 16pt;">
+		<li style="font-family: Calibri, sans-serif; font-size: 16pt;"><p 
+			 style="font-family: Calibri, sans-serif; font-size: 16pt;">Go 
+		 to the&#160;<span style="font-weight: bold;"><a title="Go to the Products screen." 
+														 href="/products" target="_blank" 
+														 style="box-sizing: border-box; 
+														 background-color: transparent; 
+														 color: rgb(237, 27, 46); 
+														 font-family: Calibri, sans-serif; 
+														 font-size: 16pt; 
+														 text-decoration: none; ">Products</a></span>&#160;tab 
+		 and choose a product.</p></li>
+		<li style="font-family: Calibri, sans-serif; font-size: 16pt;"><p 
+			 style="font-family: Calibri, sans-serif; font-size: 16pt;">Choose&#160;<span 
+		 style="font-weight: bold;">Subscribe</span>&#160;for the API you 
+		 want to consume.</p></li>
+		<li style="font-family: Calibri, sans-serif; font-size: 16pt;"><p 
+			 style="font-family: Calibri, sans-serif; font-size: 16pt;">Name 
+		 your subscription (optional). You can have multiple API subscriptions 
+		 per account.</p></li>
+		<li style="font-family: Calibri, sans-serif; font-size: 16pt;"><p 
+			 style="font-family: Calibri, sans-serif; font-size: 16pt;">Click&#160;<span 
+		 style="font-weight: bold;">Confirm</span>.</p></li>
+	</ol>
+	<li style="font-weight: normal; font-family: Calibri, sans-serif; font-size: 16pt;"><p 
+		 style="font-family: Calibri, sans-serif; font-size: 16pt;"><span 
+	 style="font-weight: bold;">Approval:</span> You will receive an email 
+	 when the Hypertherm API Team approves your subscription and 
+	 issues your API key. In the meantime, feel free to <a title="Preview the API." 
+	 href="/docs/services/true-hole-conversion" 
+	 style="box-sizing: border-box; background-color: transparent; color: rgb(237, 27, 46); 
+	 font-family: Calibri, sans-serif; font-size: 16pt; font-weight: normal; 
+	 text-decoration: none; ">preview the API</a>. </p></li>
+	<li style="font-weight: normal; font-family: Calibri, sans-serif; font-size: 16pt;"><p 
+		 style="font-family: Calibri, sans-serif; font-size: 16pt;"><span 
+	 style="font-weight: bold;">Get Key:</span> Go to your <a title="Go to your account profile." 
+												 href="/developer" 
+												 style="box-sizing: border-box; 
+												 background-color: transparent; 
+												 color: rgb(237, 27, 46); 
+												 font-family: Calibri, sans-serif; 
+												 font-size: 16pt; font-weight: normal; 
+												 text-decoration: none; ">account 
+	 profile</a>.</span></p></li>
+	 <p><img src="https://apimgmtstn8cpkxcgggwypqf.blob.core.windows.net/content/MediaLibrary/General%20documentation/access-profile2.jpg" 
+	 alt=""/></p>
+</ol>
+<br>
+<p style="font-family: Calibri, sans-serif; font-weight: bold; font-size: 18pt;">Next 
+ step<span style="font-size: 14pt; font-weight: normal">*</span></p>
+ <p></p>
+<p>See the <a href="https://github.com/Hypertherm/true-hole-client-net/blob/master/README.md">ReadMe</a>.</p>
+</ul>
+	 <p></p>
+	 <p style="font-family: Calibri, sans-serif; font-size: 12pt;">* For non-EDGE Connect users only</p>
+</body>
