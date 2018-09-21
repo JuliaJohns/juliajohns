@@ -1,0 +1,70 @@
+﻿.pt_header {
+                                             background-color:#000000;
+                                             font-family:"Gill Sans" , "Gill Sans MT" , "Myriad Pro" , "DejaVu Sans Condensed" , Helvetica, Arial, sans-serif;
+                                             color:#ffffff;
+}
+.pt_header p {
+                                               margin:0;
+                                               padding:0.3em;
+                                               font-size:1.4em;
+                                               text-align:left;
+}
+.pt_breadcrumbs {
+                                                  padding:0.3em 0em;
+                                                  font-family: "Helvetica Neue" , Helvetica, Arial, sans-serif;
+                                                  font-size:0.85em;
+                                                  text-align:left;
+}
+.pt_breadcrumbs a {
+                                                    text-decoration:none;
+                                                    color:#ed1b2e;
+}
+.pt_breadcrumbs span {
+                                                       text-decoration:none;
+}
+.pt_round-corner {
+                                                   border-radius:10px;
+}
+.pt_minitoc {
+                                              background-color:#f8f8f8;
+                                              border:1px solid #cfcfcf;
+                                              display:inline-block;
+                                              padding:1em;
+                                              color:#616161;
+                                              font-family: "Helvetica Neue" , Helvetica, Arial, sans-serif;
+                                              font-size:0.9em;
+                                              margin:1em 0em 1em 0em;
+}
+.pt_minitoc a {
+                                                color:#999999;
+												text-decoration:none;	
+}
+.pt_minitoc p {
+                                                margin:0.3em 0;
+                                                cursor:pointer;
+}
+.pt_minitoc span.showhide {
+                                                            font-size:0.7em;
+}
+p.pt_minitocLevel1{
+}
+p.pt_minitocLevel2 {
+                                                     margin-left:2em;
+}
+p.pt_minitocLevel3 {
+                                                     margin-left:4em;
+}
+.pt_h1 {
+                                         font-size:1.4em;
+                                         font-weight:bold;
+}
+.pt_footer {
+                                             font-size:0.8em;
+                                             background:#eeeeee;
+                                             color:#616161;
+                                             padding:0.4em 0;
+                                             text-align:center;
+}
+.pt_footer p {
+                                               margin:0;
+}
