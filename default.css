@@ -1,0 +1,298 @@
+﻿p.BodyLevel1 {
+	margin-left: 0pt;
+	margin-top: 0pt;
+	margin-bottom: 3pt;
+}
+p.BodyLevel2 {
+	margin-left: 18pt;
+	margin-top: 3pt;
+	margin-bottom: 6pt;
+}
+p.BodyLevel3 {
+	margin-left: 36pt;
+	margin-top: 3pt;
+	margin-bottom: 6pt;
+}
+body {
+	font-family: "Arial","Times New Roman", sans-serif;
+	background-color: #ffffff;
+	font-weight: normal;
+	color: #000000;
+	font-size: 14px;
+}
+h1 {
+	margin-bottom: 5pt;
+	font-family: "Segoe UI", sans-serif;
+	padding: 2px;
+	padding-left: 0px;
+	padding-right: 0px;
+	color: #000000;
+	z: ;
+	font-weight: normal;
+	margin-top: 5px;
+	font-size: 18pt;
+	page-break: avoid;
+}
+h2 {
+	margin: 6px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 6px;
+	font-size: 12pt;
+	font-weight: bold;
+	font-family: "Segoe UI", sans-serif;
+	margin-top: 18px;
+	page-break: avoid;
+}
+h3 {
+	margin: 6px;
+	margin-left: 0px;
+	margin-right: 0px;
+	border: solid 0px;
+	font-weight: bold;
+	margin-top: 16px;
+	font-family: "Segoe UI", sans-serif;
+	font-size: 10pt;
+	page-break: avoid;
+}
+h4 {
+	margin: 0;
+	margin-bottom: 12px;
+	font-family: "Segoe UI", sans-serif;
+	font-weight: normal;
+	page-break: avoid;
+	font-size: 10pt;
+	color: #000080;
+	margin-top: 5pt;
+	x-next-class: SettingBody;
+	x-next-type: p;
+}
+h5 {
+	font-size: 10.0pt;
+	margin-bottom: 5pt;
+	page-break: avoid;
+	color: #000080;
+	margin-top: 5px;
+	x-next-class: SettingBody;
+	x-next-type: p;
+	font-weight: normal;
+	font-style: normal;
+}
+h6 {
+	font-size: 10pt;
+	margin: 0;
+	margin-bottom: 6px;
+	page-break: avoid;
+	font-family: "Segoe UI", sans-serif;
+	color: #000080;
+	margin-top: 5pt;
+	font-weight: normal;
+	font-style: normal;
+}
+ol,
+ul {
+	margin-top: 3pt;
+	margin-bottom: 2pt;
+}
+span.emphasis {
+	font-style: italic;
+}
+span.hyperlinks {
+	color: #ED1B2E;
+	text-decoration: underline;
+}
+span.Superscript {
+	vertical-align: super;
+	font-size: 8pt;
+}
+span.bold {
+	font-weight: bold;
+}
+p.Note {
+	padding-left: 30px;
+	padding-bottom: 15px;
+	padding-right: 20px;
+	padding-top: 15px;
+	margin-left: 0px;
+	margin-top: 5px;
+	font-family: "Segoe UI", sans-serif;
+	font-size: 1em;
+	margin-bottom: 15px;
+	border: 1px solid #252525;
+	background: url(Note.png);
+	background-repeat: no-repeat;
+	background-position: 5px 5px;
+}
+p.SettingName {
+	margin-top: 30px;
+	font-weight: bold;
+	page-break: avoid;
+	x-next-class: SettingBody;
+	x-next-type: p;
+}
+p.SettingBody {
+	margin-bottom: 0px;
+	margin-left: 20px;
+}
+p.TableHeadLeftMiddleBlack {
+	font-weight: bold;
+	vertical-align: middle;
+}
+p.TableHeadLeftBottomWhite {
+	font-weight: bold;
+	vertical-align: bottom;
+}
+p.TableHeadCenterTopBlack {
+	vertical-align: top;
+	text-align: center;
+	font-weight: bold;
+}
+p.TableLeftTop {
+	font-size: 12px;
+}
+span.ScreenElement {
+	font-weight: bold;
+}
+a:link {
+	color: #ed1b2e;
+	display: inline;
+	text-decoration: underline;
+}
+p.CalloutLeft {
+	margin-left: 10pt;
+	font-size: 12px;
+}
+/*Table styles*/
+table.Standard {
+	border: 1px solid #000000;
+	border-collapse: collapse;
+	text-align: left;
+}
+table.Standard td,
+table.Standard th {
+	border: 1px solid #000000;
+	padding: 5px 0px;
+	vertical-align: top;
+}
+table.CalloutsWeb {
+	border: 0px;
+	border-collapse: collapse;
+	text-align: left;
+}
+table.CalloutsWeb td,
+table.CalloutsWeb th {
+	border: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-right: 5px;
+	padding-left: 5px;
+	vertical-align: top;
+}
+/*end table styles*/
+/*Masterpage styles*/
+.pt_breadcrumbs {
+	padding: 0.3em 0em;
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	font-size: 0.85em;
+	text-align: left;
+}
+.pt_breadcrumbs a {
+	color: #ed1b2e;
+	text-decoration: none;
+}
+.pt_breadcrumbs span {
+	text-decoration: none;
+}
+.pt_body {
+	padding-bottom: 2em;
+}
+.pt_footer {
+	font-size: 8pt;
+	background: #eeeeee;
+	color: #252525;
+	padding: 0.5em 0;
+	text-align: center;
+	margin-top: 20px;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	margin-left: -1em;
+}
+.pt_footer p {
+	margin: 0;
+}
+/*end styles for masterpage*/
+/*special rh list styles not needed in FM*/
+li.Numbered {
+	list-style: decimal;
+}
+li.Bullet {
+	list-style: disc;
+	margin-bottom: 2pt;
+	margin-top: 3pt;
+}
+rh-list.Bullets {
+	x-lvl-1-type: disc;
+	x-lvl-1-format: "<x>";
+	x-lvl-2-type: square;
+	x-lvl-2-format: "<x>";
+	x-lvl-2-margin: 20px;
+	x-lvl-3-type: circle;
+	x-lvl-3-format: "<x>";
+	x-lvl-3-margin: 40px;
+	x-lvl-4-type: diamond;
+	x-lvl-4-format: "<x>";
+	x-lvl-4-margin: 60px;
+	x-lvl-5-type: disc;
+	x-lvl-5-format: "<x>";
+	x-lvl-5-margin: 80px;
+	x-lvl-6-type: square;
+	x-lvl-6-format: "<x>";
+	x-lvl-6-margin: 100px;
+	x-lvl-7-type: circle;
+	x-lvl-7-format: "<x>";
+	x-lvl-7-margin: 120px;
+	x-lvl-8-type: diamond;
+	x-lvl-8-format: "<x>";
+	x-lvl-8-margin: 140px;
+	x-level-count: 9;
+	x-lvl-9-type: disc;
+	x-lvl-9-format: "<x>";
+	x-lvl-9-margin: 160px;
+	x-lvl-9-pfx-class: rls-9-Bullets;
+	x-lvl-1-pfx-class: rls-1-Bullets;
+	x-lvl-2-pfx-class: rls-2-Bullets;
+	x-lvl-3-pfx-class: rls-3-Bullets;
+	x-lvl-4-pfx-class: rls-4-Bullets;
+	x-lvl-5-pfx-class: rls-5-Bullets;
+	x-lvl-6-pfx-class: rls-6-Bullets;
+	x-lvl-7-pfx-class: rls-7-Bullets;
+	x-lvl-8-pfx-class: rls-8-Bullets;
+}
+span.rls-9-Bullets {
+	font-size: 8pt;
+}
+span.rls-1-Bullets {
+	font-size: 12pt;
+}
+span.rls-2-Bullets {
+	font-size: 12pt;
+}
+span.rls-3-Bullets {
+	font-size: 12pt;
+}
+span.rls-4-Bullets {
+	font-size: 12pt;
+}
+span.rls-5-Bullets {
+	font-size: 10pt;
+}
+span.rls-6-Bullets {
+	font-size: 10pt;
+}
+span.rls-7-Bullets {
+	font-size: 10pt;
+}
+span.rls-8-Bullets {
+	font-size: 10pt;
+}
