@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Overview](README.md)
+* [Getting Started](getting-started.md)
+* [Reference](reference.md)
+* [Tutorials](tutorials.md)
+* [FAQs](faqs.md)
 
