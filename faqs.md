@@ -1,12 +1,15 @@
 # FAQs
 
-## Can I become who I want to be?
+### Are my part programs kept private and secure once uploaded to the cloud?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+### What if CNCs are not connected to the Internet?
 
-## Have you had a chance to answer the previous question?
+### What if my Internet connectivity is spotty or slow?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+### How much time does it take to convert a part? Do more complex part programs require more time for conversion?
 
+### Can I review the code in my True Hole part before I start cutting?
 
+### What API usage analytics are available  in the Developer Portal?
 
+### Do I have to install your NuGet package to use  this API?
